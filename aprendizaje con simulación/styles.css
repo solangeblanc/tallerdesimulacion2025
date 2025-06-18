@@ -29,8 +29,8 @@ header {
 footer {
     background-color: #1565c0;
    display: grid;
-  justify-content: center; /* Centra horizontalmente */
-  align-items: center; /* Centra verticalmente */
+     justify-self: center; /* Centra horizontalmente */
+  align-self: center;
   height: 100vh;
 
     
