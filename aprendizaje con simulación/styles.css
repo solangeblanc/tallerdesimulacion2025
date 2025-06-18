@@ -27,18 +27,16 @@ header {
 
 /* Estilo del footer */
 footer {
-    background-color: #1565c0;  
-    display: grid;
-    justify-content: center;
-   
-}
-
-.footer-logo {
-    height: 40px;
+    background-color: #1565c0;
+      height: 40px;
     /* Ajusta el tamaño del logo */
     width: auto;
     margin-right: 450px;
+    
+   
 }
+
+
 
 .imagenes-container {
     display: flex;
