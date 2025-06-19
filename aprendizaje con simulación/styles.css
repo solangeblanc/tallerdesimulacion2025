@@ -29,8 +29,9 @@ header {
 footer {
   background-color: #1565c0;
   display: grid;
-  place-items: center; /* Centra contenido en ambas direcciones */
+  place-items: center;
   height: 100vh;
+  color: white;
 }
 
 
