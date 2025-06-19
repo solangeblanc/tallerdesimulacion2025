@@ -27,15 +27,12 @@ header {
 
 /* Estilo del footer */
 footer {
-    background-color: #1565c0;
-   display: grid;
-     justify-self: center; /* Centra horizontalmente */
-  align-self: center;
+  background-color: #1565c0;
+  display: grid;
+  place-items: center; /* Centra contenido en ambas direcciones */
   height: 100vh;
-
-    
-   
 }
+
 
 
 
