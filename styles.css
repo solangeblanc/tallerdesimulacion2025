@@ -21,6 +21,11 @@ main {
   padding: 0.2em 0.5em;
   border-radius: 6px;
 }
+footer {
+  padding: 10px 0;          /* Reduce espacio arriba y abajo */
+  font-size: 14px;          /* Tamaño de letra más chico */
+  height: auto;             /* Ajusta el alto según contenido */
+}
 
 
 
