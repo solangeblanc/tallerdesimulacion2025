@@ -13,10 +13,11 @@ body {
 
 .subrayado {
   display: inline-block;
-  background: linear-gradient(transparent 60%, #fff176 60%);
-  padding: 0 6px;
-  border-radius: 2px;
+  background-color: #ffe082; /* amarillo suave, más cálido */
+  padding: 0.2em 0.5em;
+  border-radius: 6px;
 }
+
 
 
 
