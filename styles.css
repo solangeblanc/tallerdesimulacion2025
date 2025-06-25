@@ -17,7 +17,7 @@ main {
 
 .subrayado {
   display: inline-block;
-  background-color: #ffe082; /* amarillo suave, más cálido */
+  background-color: #FFFF33; /* amarillo suave, más cálido */
   padding: 0.2em 0.5em;
   border-radius: 6px;
 }
