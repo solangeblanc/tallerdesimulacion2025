@@ -12,11 +12,12 @@ body {
 }
 
 .subrayado {
+  background: linear-gradient(transparent 70%, #fff176 70%);
   display: inline;
-  background: linear-gradient(to top, #fff176 50%, transparent 50%);
-  padding: 0.1em 0.2em;
-  line-height: 1.6;
+  padding: 0 4px;
+  line-height: 1.5;
 }
+
 
 
 
