@@ -79,6 +79,12 @@ img.rounded:hover {
   max-width: 100%;
   height: auto;
 }
+.bg-contacto {
+  background-color: #e3f2fd;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
 
 
 
