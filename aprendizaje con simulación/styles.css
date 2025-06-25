@@ -10,6 +10,14 @@ body {
     margin-left: 5px;
     /* Bordes suaves */
 }
+.subrayado {
+  display: inline-block;
+  background-color: #ffeb3b; /* color tipo resaltador amarillo */
+  padding: 0 10px;
+  border-radius: 4px;
+  box-decoration-break: clone;
+}
+
 
 #contacto form {
   max-width: 600px;
