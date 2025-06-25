@@ -1,6 +1,10 @@
 body {
     font-family: Arial, sans-serif;
 }
+main {
+  flex: 1;
+}
+
 
 /* Logo en la barra de navegación */
 .logo {
