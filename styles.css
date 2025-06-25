@@ -21,45 +21,6 @@ body {
 
 
 
-
-
-
-#contacto form {
-  max-width: 600px;
-  margin: 0 auto;
-}
-#contacto {
-  background-color: #e3f2fd; /* Azul muy clarito */
-  padding: 50px 20px;
-  border-radius: 10px;
-}
-
-
-#contacto h2 {
-  color: #000; /* negro */
-  font-weight: normal;
-}
-
-#contacto .form-label {
-  color: #000; /* negro */
-}
-
-
-
-
-#contacto .btn-primary {
-  background-color: #1565c0;
-  border-color: #1565c0;
-}
-
-#contacto .btn-primary:hover {
-  background-color: #0d47a1;
-  border-color: #0d47a1;
-}
-
-
-
-
 /* Espaciado en el header */
 header {
     padding: 100px 20px;
