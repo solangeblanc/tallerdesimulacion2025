@@ -12,12 +12,12 @@ body {
 }
 
 .subrayado {
-  background-color: #fffd54; /* amarillo marcador */
   display: inline;
+  background: linear-gradient(to top, #fff176 50%, transparent 50%);
   padding: 0.1em 0.2em;
-  box-shadow: inset 0 -0.4em 0 #fffd54;
   line-height: 1.6;
 }
+
 
 
 
