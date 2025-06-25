@@ -37,7 +37,7 @@ body {
 
 #contacto h2 {
   color: #000; /* negro */
-  font-weight: bold;
+  font-weight: normal;
 }
 
 #contacto .form-label {
