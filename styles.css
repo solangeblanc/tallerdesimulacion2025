@@ -26,6 +26,9 @@ footer {
   font-size: 14px;          /* Tamaño de letra más chico */
   height: auto;             /* Ajusta el alto según contenido */
 }
+footer p {
+  margin: 0;
+}
 
 
 
