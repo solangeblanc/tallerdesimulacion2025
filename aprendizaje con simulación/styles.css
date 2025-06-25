@@ -11,6 +11,12 @@ body {
     /* Bordes suaves */
 }
 
+#contacto form {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+
 /* Espaciado en el header */
 header {
     padding: 100px 20px;
