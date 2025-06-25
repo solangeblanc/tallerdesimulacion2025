@@ -34,15 +34,18 @@ footer {
   color: white;
 }
 
+img.rounded {
+    border-radius: 10px;
+    transition: transform 0.3s ease;
+}
+
+img.rounded:hover {
+    transform: scale(1.03);
+}
 
 
 
-.imagenes-container {
-    display: flex;
-    justify-content: center;
-    /* Centra las imágenes horizontalmente */
-    gap: 15px;
-    /* Espacio entre imágenes */
+
 }
 .img-fluid {
   max-width: 100%;
@@ -50,20 +53,6 @@ footer {
 }
 
 
-.imagenes-container {
-    display: flex;
-    flex-wrap: wrap;
-    /* Permite que las imágenes se ajusten en pantallas pequeñas */
-    justify-content: center;
-    gap: 15px;
-}
 
-.imagenes-container img {
-    width: 100%;
-    /* Hace que las imágenes sean más flexibles */
-    max-width: 300px;
-    /* Evita que sean demasiado grandes en pantallas grandes */
-    height: auto;
-    border-radius: 10px;
-    /* Bordes suaves */
-}
+
+
