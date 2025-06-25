@@ -34,14 +34,18 @@ body {
   border-radius: 10px;
 }
 
+
 #contacto h2 {
-  color: #0d47a1;
+  color: #000; /* negro */
   font-weight: bold;
 }
 
 #contacto .form-label {
-  color: #0d47a1;
+  color: #000; /* negro */
 }
+
+
+
 
 #contacto .btn-primary {
   background-color: #1565c0;
