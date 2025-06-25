@@ -13,10 +13,12 @@ body {
 .subrayado {
   display: inline-block;
   background-color: #ffeb3b; /* color tipo resaltador amarillo */
-  padding: 0 10px;
+  padding: 0.2em 0.4em;
   border-radius: 4px;
+  line-height: 1.6;
   box-decoration-break: clone;
 }
+
 
 
 #contacto form {
